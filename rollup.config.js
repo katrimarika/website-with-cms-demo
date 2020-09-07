@@ -66,7 +66,7 @@ export default {
     production && terser(),
     production && hashStaticAssets(),
 
-    serve({ contentBase: 'build', open: false }),
+    !production && serve({ contentBase: 'build', open: false }),
 
     // Watch the `build/admin` directory and refresh the
     // browser on changes when not in production
