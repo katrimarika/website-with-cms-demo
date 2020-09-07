@@ -35,7 +35,6 @@ export default {
         { src: 'public/*', dest: 'build' },
         { src: 'src/index.html', dest: baseDir },
         { src: 'src/assets', dest: baseDir },
-        { src: 'src/email-templates', dest: baseDir },
       ],
     }),
 
