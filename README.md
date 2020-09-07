@@ -2,7 +2,7 @@
 
 A demo project for [website-with-cms-template](https://github.com/katrimarika/website-with-cms-template) admin UI.
 
-Deployed at [https://website-with-cms-demo.netlify.app/](https://website-with-cms-demo.netlify.app/).
+Deployed at [https://website-with-cms-demo.netlify.app/admin/](https://website-with-cms-demo.netlify.app/admin/).
 
 ## Development
 
