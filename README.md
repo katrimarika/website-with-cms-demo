@@ -20,11 +20,7 @@ npm start
 
 This runs a development server serving files from `build/admin` and sets up live reload for svelte. The admin panel built from `src` folder and can be found at [/admin/](http://localhost:10001/admin/).
 
-To release, i.e. update version, tag and push to production branch (no local build required):
-
-```
-./scripts/release
-```
+Released automatically from master branch.
 
 To test the production build locally:
 
